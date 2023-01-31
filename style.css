@@ -189,6 +189,7 @@ body {
   .form-wrapper {
     padding-left: 30px;
     padding-right: 30px;
+    align-content: center;
   }
 }
 
@@ -196,6 +197,6 @@ body {
   .form-wrapper {
     padding-left: 60px;
     padding-right: 60px;
-    text-align: center;
+    align-content: center;
   }
 }
